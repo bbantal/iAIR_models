@@ -1,5 +1,5 @@
 # iAIR_models
-Code we in our manuscript: ...
+This repository contains all models that we used for the simulation results found in our manuscript titled "*D-ꞵ-hydroxybutyrate stabilizes hippocampal network during acute insulin resistance.*"
 
 ## Content
 * `neuron_model.jl`: code to compute results for Figure 8, plotted by a separate script
